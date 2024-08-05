@@ -45,4 +45,6 @@ The combination of Python, SQL, and data science tools empowers businesses to ad
 ![image](https://github.com/user-attachments/assets/eb134f06-03a7-4cd1-b48d-34dbe1d09eaf)
 ![image](https://github.com/user-attachments/assets/8dc3dc31-4cfb-4d4b-bc9b-56c3ffd2bc60)
 ![image](https://github.com/user-attachments/assets/36eb628a-42df-449c-8676-628258269eea)
+![image](https://github.com/user-attachments/assets/b9030949-3537-4f02-9a9d-217b21649d92)
 ![image](https://github.com/user-attachments/assets/2dc4c566-6380-46f8-954b-beda255ada17)
+![image](https://github.com/user-attachments/assets/47704cc1-ea28-494c-b51d-f05ca7d476ce)
